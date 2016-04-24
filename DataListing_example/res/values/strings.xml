@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Data Listing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="age_hint">Enter Your Age</string>
+    
+    <string name="save_str">Save</string>
+    <string name="show_str">Show</string>
+    
+    <string name="name_list_str">Name</string>
+    <string name="age_list_str">Age</string>
+
+    
+    <string name="deleteAll_str">Delete All</string>
+    <string name="particularDel_str">Specific Delete</string>
+</resources>

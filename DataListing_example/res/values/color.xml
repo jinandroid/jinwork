@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <color name="orange">#FF8040</color>
+        
+        <color name="turquoise">#43C6DB</color>
+        <color name="green_teal">#008080</color>
+        <color name="heading_bg">#F0FFFF</color>
+        <color name="pink">#DC3377</color>
+        <color name="papaya_status_color">#F660AB</color>
+        <color name="blue">#0000FF</color>
+   
+   <!--  #F52887 -->
+</resources>
